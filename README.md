@@ -20,6 +20,8 @@ When a tutorial gets accepted we will press the lovely green merge button.
 
 Note: Tutorials are for either half or full days.
 Proposals will be accepted until 31 October, 2012.
+If you have any questions about your proposed tutorial, please email us at
+[tutorials@rubyconf.org.au](mailto:tutorials@rubyconf.org.au).
 
 Credit: Kudos to [EuRuKo 2012](https://github.com/euruko2012/call-for-proposals) and 
 [Sapporo RubyKaigi 2012](https://github.com/sprk2012/sprk2012-cfp) for the idea.
