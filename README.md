@@ -1,6 +1,6 @@
-# RubyConf Australia 2013 Call for Tutorial Proposals
+# RubyConf Australia 2013 Call for Tutorial/Workshop Proposals
 
-So, you are interested in giving a tutorial at [RubyConf Australia 2013](http://rubyconf.org.au), 
+So, you are interested in giving a tutorial or workshop at [RubyConf Australia 2013](http://rubyconf.org.au), 
 the first ever Ruby conference to be held in Australia? 
 
 What better way to submit a tutorial proposal than via GitHub! 
@@ -18,7 +18,7 @@ What better way to submit a tutorial proposal than via GitHub!
 You can add any type of assets to support your proposal inside your folder.
 When a tutorial gets accepted we will press the lovely green merge button.
 
-Note: Tutorials are for either half or full days.
+Note: Tutorials/workshops are for either a half or full day on Wednesday, 20 February, 2013.
 Proposals will be accepted until 31 October, 2012.
 If you have any questions about your proposed tutorial, please email us at
 [tutorials@rubyconf.org.au](mailto:tutorials@rubyconf.org.au).
