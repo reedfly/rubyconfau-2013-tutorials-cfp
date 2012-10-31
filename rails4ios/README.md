@@ -9,7 +9,7 @@ Six years ago Lori tried Ruby/Rails as an alternative to Java development and "h
 Lori enjoys mentoring & training. Delivering talks at conferences like AlohaRuby 2012 in Honolulu, RailsConf 2012 in Austin and ConFoo 2012 in Montreal, she has also spoken at jQuery Conf Boston 2011, Madison Ruby 2011, Conferencia Rails 2010 in Madrid and RailsConf 2009 in Las Vegas. She teaches the well received Ruby on Rails for Real workshop in Calgary, and was a RailsBridge instructor at Madison Ruby. She has also presented frequently to the Calgary Agile Methods User Group and the Calgary Ruby User Society, of which she is also a co-founder.
 
 
-![Profile picture](https://raw.github.com/wndxlori/rubyconfau-2013-cfp/master/rails4ios/profile_picture.jpg)
+![Profile picture](https://raw.github.com/wndxlori/rubyconfau-2013-tutorials-cfp/master/rails4ios/profile_picture.jpg)
 
 ## Tim Breitkreutz
 
